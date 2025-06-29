@@ -2,7 +2,7 @@
 The Power BI dashboard is designed to provide an interactive and real-time visualization of sales performance across different regions, products, and time periods. It helps stakeholders understand key trends, performance indicators, and areas of improvement, allowing data-driven decision-making.
 
 Key Features of the Project:
-Here are the core features you typically find in a Power BI dashboard project:
+
 
 Feature	Description
 Data Import	Connects to multiple sources (Excel, SQL, Web, etc.)
