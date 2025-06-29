@@ -33,16 +33,7 @@ Manual reporting is slow and error-prone. With Power BI, once the data model is 
 The dashboard is designed with user interactivity in mind. With slicers, filters, and drill-down options, users can explore the data based on their needs — such as checking monthly vs yearly trends, or region-wise performance.
 
  6. Cross-Functional Utility
-    This project isn’t limited to one department. It can be used in various domains:
-
-    Sales – Analyze product performance
-
-    HR – Track employee metrics
-    Finance – Monitor budgets and expenses
-
-    Education – View student progress and attendance
-
-    Healthcare – Track patient records and treatments
+    
 
  7. Skill Development
     Creating a dashboard using Power BI improves your skills in:
@@ -66,7 +57,8 @@ The dashboard is designed with user interactivity in mind. With slicers, filters
  Dashboard:[Power BI file (.pbix) of the project.](https://github.com/Ambika-Roy7/Power-Dashboard-/blob/main/Dashboard.pbix) <br/>
  Images:![Dashboard Image](https://github.com/user-attachments/assets/ca767623-006f-44dd-809d-65b30196efb9)
 
- 
+ # Feedback and collaboration
+ your feedback is welcome! if you would u like to collaborate on similar projects or discuss data analysis opportunities,feel free to reach out.
 
 
  # Project Highlights
