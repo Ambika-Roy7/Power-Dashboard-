@@ -33,37 +33,36 @@ Manual reporting is slow and error-prone. With Power BI, once the data model is 
 The dashboard is designed with user interactivity in mind. With slicers, filters, and drill-down options, users can explore the data based on their needs — such as checking monthly vs yearly trends, or region-wise performance.
 
  6. Cross-Functional Utility
-This project isn’t limited to one department. It can be used in various domains:
+    This project isn’t limited to one department. It can be used in various domains:
 
-Sales – Analyze product performance
+    Sales – Analyze product performance
 
-HR – Track employee metrics
+    HR – Track employee metrics
+    Finance – Monitor budgets and expenses
 
-Finance – Monitor budgets and expenses
+    Education – View student progress and attendance
 
-Education – View student progress and attendance
-
-Healthcare – Track patient records and treatments
+    Healthcare – Track patient records and treatments
 
  7. Skill Development
-Creating a dashboard using Power BI improves your skills in:
+    Creating a dashboard using Power BI improves your skills in:
 
-Data cleaning & transformation (Power Query)
+    Data cleaning & transformation (Power Query)
 
-Data modeling & DAX functions
+    Data modeling & DAX functions
 
-Visual storytelling
+    Visual storytelling
 
-Business Intelligence (BI) – a high-demand career skill
+    Business Intelligence (BI) – a high-demand career skill
 
  8. Industry Relevance
-Power BI is one of the most widely used BI tools in industry today. This project mirrors real-world business applications, making it highly valuable for internships, placements, and professional work environments.
+    Power BI is one of the most widely used BI tools in industry today. This project mirrors real-world business applications, making it highly valuable for internships,         placements, and professional work environments.
 
  9. Scalability
-This dashboard can be easily scaled by adding more data sources, more pages, or new KPIs — without needing to rebuild it from scratch. This makes it future-ready and practical for long-term use.
+    This dashboard can be easily scaled by adding more data sources, more pages, or new KPIs — without needing to rebuild it from scratch. This makes it future-ready and         practical for long-term use.
 
- Conclusion
-This Power BI project is not just an academic exercise — it simulates real-world business intelligence practices. It prepares you for corporate roles, demonstrates your analytical thinking, and showcases your ability to turn data into actionable insights.
+ # Conclusion
+   This Power BI project is not just an academic exercise — it simulates real-world business intelligence practices. It prepares you for corporate roles, demonstrates your      analytical thinking, and showcases your ability to turn data into actionable insights.
 
 
 
