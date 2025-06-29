@@ -61,13 +61,11 @@ The dashboard is designed with user interactivity in mind. With slicers, filters
  9. Scalability
     This dashboard can be easily scaled by adding more data sources, more pages, or new KPIs — without needing to rebuild it from scratch. This makes it future-ready and         practical for long-term use.
 
- # Conclusion
-   This Power BI project is not just an academic exercise — it simulates real-world business intelligence practices. It prepares you for corporate roles, demonstrates your      analytical thinking, and showcases your ability to turn data into actionable insights.
-
-
-
-
-
+ # Repository Structure
+ Data:<a href "https://github.com/Ambika-Roy7/Power-Dashboard-/blob/main/Mobile%20Sales%20Data%20(1).xlsx"<a/>
+ Dashboard:Power BI file (.pbix) of the project.
+ Images:Contains screenshorts of the dashboard for easy preview.
+ 
 
 
  # Project Highlights
