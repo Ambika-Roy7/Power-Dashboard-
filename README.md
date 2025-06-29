@@ -62,9 +62,10 @@ The dashboard is designed with user interactivity in mind. With slicers, filters
     This dashboard can be easily scaled by adding more data sources, more pages, or new KPIs — without needing to rebuild it from scratch. This makes it future-ready and         practical for long-term use.
 
  # Repository Structure
- Data:<a href "https://github.com/Ambika-Roy7/Power-Dashboard-/blob/main/Mobile%20Sales%20Data%20(1).xlsx"<a/>
- Dashboard:Power BI file (.pbix) of the project.
- Images:Contains screenshorts of the dashboard for easy preview.
+ Data:https://github.com/Ambika-Roy7/Power-Dashboard-/blob/main/Mobile%20Sales%20Data%20(1).xlsx <br/>
+ Dashboard:[Power BI file (.pbix) of the project.](https://github.com/Ambika-Roy7/Power-Dashboard-/blob/main/Dashboard.pbix) <br/>
+ Images:![Dashboard Image](https://github.com/user-attachments/assets/ca767623-006f-44dd-809d-65b30196efb9)
+
  
 
 
